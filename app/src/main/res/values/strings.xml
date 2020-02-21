@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flicker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search_">Search Activity</string>
+    <string name="title_activity_photo_detail">PhotoDetail</string>
+    <string name="title_activity_web">WEB</string>
+</resources>
